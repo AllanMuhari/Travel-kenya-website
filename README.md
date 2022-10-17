@@ -13,7 +13,7 @@ In the home page the companies services are outlined and the company details are
 # About 
 In the about page the companies privilege are stated and our past customers have rated our services.
 
-#Packges
+# Packges
 In this page one loos at the various destination one may want to visit.
 
 # Book

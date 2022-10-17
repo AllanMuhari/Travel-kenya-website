@@ -1,7 +1,7 @@
 # Travel-kenya-website
 This is a web application were one can view various tour attractions in Kenya and they can book their ticket 
 
-# table of contents
+# Table of contents
 * Home
 * Book
 * Packages
@@ -21,7 +21,7 @@ In this page after you have selected your place of tour you can fill in your det
 
 
 # Tech stack
-* tech-stack
+ * Tech-stack
   * Php-A programming language that I have used to connct the files and the database.
   * Html-Hypertext Markup Language, and it is the most widely used language to write Web Pages.
   * Css-Cascading Style Sheets (CSS) is a stylesheet language used to describe the presentation of a document written in HTML.

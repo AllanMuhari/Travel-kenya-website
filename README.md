@@ -28,6 +28,8 @@ In this page after you have selected your place of tour you can fill in your det
   * MySql-Used it as a local storing databas.
   * Javascript-A programming language tha t makes the we application more responsive.
   * Xampp-An application that comes with both MYSQL and Php.
+#Netlify link
+* https://travel-kenya.netlify.app/home.html
 
 ![image](https://user-images.githubusercontent.com/107704648/231266513-0196e672-b92d-48cd-8270-c5738b13d4b2.png)
 ![image](https://user-images.githubusercontent.com/107704648/231266608-3085acbe-8bd3-409d-9d86-8e9592776b65.png)
